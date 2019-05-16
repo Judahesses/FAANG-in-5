@@ -1,4 +1,5 @@
-# FAANG-in-5
+# FAANG-in-5:
+## Predicting if you will make a profit investing in Facebook, Amazon, Apple, Netflix, and Google over the next 5 years
 
 Used API and requests to get stock data from https://www.worldtradingdata.com
 <br />
