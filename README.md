@@ -10,7 +10,7 @@ investing in all 5 stocks.
 <br />
 Used Facebook Profit to see how their model runs and to see how it differs from the SARIMAX model
 
-How to view stock projections of your own choosing:
+#### How to view stock projections of your own choosing:
   1. download all files from this GitHub Repo
   2. open stock_projections_presentation.ipynb
   3. run file with desired stock symbol
