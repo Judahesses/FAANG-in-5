@@ -1,0 +1,6 @@
+# FAANG-in-5
+
+Used API and requests to get stock data from https://www.worldtradingdata.com
+Created an algorithm to get data based on a given stock
+Combined Facebook, Apple, Amazon, Netflix, and Googles stocks and made a 5 year projection on whether or not you will make a profit investing in all 5 stocks. 
+Used Facebook Profit to see how their model runs and to see how it differs from the SARIMAX model
